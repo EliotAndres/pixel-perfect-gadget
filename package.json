@@ -1,0 +1,24 @@
+{
+  "name": "pixel-perfect-gadget",
+  "version": "1.0.0",
+  "description": "A bookmarklet to set elements' margin and padding using arrow keys",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliotAndres/pixel-perfect-gadget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliotAndres/pixel-perfect-gadget/issues"
+  },
+  "homepage": "https://github.com/EliotAndres/pixel-perfect-gadget#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.4"
+  }
+}
